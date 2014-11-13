@@ -1,4 +1,1 @@
-[code]
-using (var o = new OpenFileDialog()) {
-
-}[/code]
+  int x = 5;
